@@ -1,0 +1,3 @@
+C:/Users/loltm/CLionProjects/BubleSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/loltm/CLionProjects/BubleSort/cmake-build-debug/CMakeFiles/BubleSort.dir
+C:/Users/loltm/CLionProjects/BubleSort/cmake-build-debug/CMakeFiles/edit_cache.dir
